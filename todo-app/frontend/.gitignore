@@ -1,0 +1,16 @@
+# Node modules
+todo-app/backend/node_modules/
+todo-app/frontend/node_modules/
+
+# Env files
+todo-app/backend/.env
+
+# Build output
+todo-app/frontend/build/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
